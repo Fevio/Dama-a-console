@@ -2,10 +2,10 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) {
-        Scacchiera();
+        scacchiera();
     }
 
-    public static void Scacchiera() {
+    public static void scacchiera() {
 
         int a[][] = new int[8][8];
         int i,j;
